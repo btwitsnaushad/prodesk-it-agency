@@ -43,7 +43,7 @@ Modern IT agency frontend website with responsive layout and premium design.
 
 ## 👨‍💻 Author
 
-Mohd Sartaj
+Naushad Ahamad
 
 ## 📄 License
 
